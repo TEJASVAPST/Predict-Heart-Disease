@@ -78,4 +78,8 @@ A **confusion matrix heatmap** is plotted using `seaborn.heatmap()` to visualize
 - Seaborn
 
 ---
- git clone https://github.com/yourusername/heart-disease-prediction.git
+ ## Output
+
+![image](https://github.com/user-attachments/assets/241d8400-a7a8-436f-af07-8afd99a089e9)
+
+
